@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=B.Tech+CS+Student+%40+MUJ;Research+%26+Development+Intern+%40+Qbit+Labs;Data+Science+Intern+%40+Pay1;Top+3+Nationwide+-+Govt.+of+India+AI+Challenge" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=R%26D+Engineer+%40+Qbit+Labs;Building+Multilingual+Document+AI+%26+OCR;Ex+Data+Science+Intern+%40+Pay1;Top+3+Nationwide+-+Govt.+of+India+AI+Challenge" alt="Typing SVG" />
 
 </div>
 
@@ -36,11 +36,19 @@
 
 <br>
 
+---
+
 <div align="center">
 
-### 💻 Languages I Speak
+### 🔥 What I've Done
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrinda2720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrinda2720&theme=tokyonight&hide_border=true&color=2563EB&line=7c3aed&point=ffffff&area=true" width="90%"/>
 
 </div>
 
@@ -97,11 +105,11 @@ IoT & Security in Taylor & Francis Handbook
 
 ---
 
-### 🔥 Trophies
+### 📊 GitHub Stats
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vrinda2720&theme=tokyonight&no-frame=true&column=7&margin-w=4&no-bg=false)
+<img src="https://github-readme-stats.vercel.app/api?username=vrinda2720&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </div>
 
@@ -110,6 +118,14 @@ IoT & Security in Taylor & Francis Handbook
 ---
 
 <div align="center">
+
+### 🌱 Currently
+
+`🔭 Exploring` Multimodal AI · LLM Fine-tuning · Production ML Systems
+`📝 Writing` Research papers on Document AI & Speech Processing
+`💡 Open to` SDE / ML Engineer / Data Science roles
+
+<br>
 
 *"Turning data into intelligence and ideas into impact."*
 
