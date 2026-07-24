@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=300&section=header&text=Vrinda%20Bindal&fontSize=80&fontColor=ffffff&fontAlignY=38&descSize=0&animation=twinkling" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
+
+<br>
 
 <div align="center">
 
@@ -16,75 +20,88 @@
 
 <div align="center">
 
-*"Turning data into intelligence and ideas into impact."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=B.Tech+CS+Student+%40+MUJ;Research+%26+Development+Intern+%40+Qbit+Labs;Data+Science+Intern+%40+Pay1;Top+3+Nationwide+-+Govt.+of+India+AI+Challenge" alt="Typing SVG" />
 
 </div>
 
 <br>
-
-```
-🎓  B.Tech Computer Science — Manipal University Jaipur
-🔬  R&D Intern @ Qbit Labs — Multilingual Document AI & Transformer OCR
-📊  Data Science Intern @ Pay1 — Geo-spatial Intelligence & GenAI Automation
-🏆  Top 3 — Govt. of India NCIIPC × Startup India AI Grand Challenge
-📝  Published Researcher — ICCIDC 2025 (Taylor & Francis) & Scopus Book Chapter
-🧠  Passionate about AI, NLP, Deep Learning & Scalable Systems
-```
-
-<br>
-
----
 
 <div align="center">
 
 ### ⚡ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,huggingface,numpy,pandas,mysql,git,github,jupyter,colab,vscode" width="400"/>
+
 </div>
 
 <br>
 
 <div align="center">
 
-`Python` · `Java` · `SQL` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `Hugging Face` · `NumPy` · `Pandas` · `FAISS` · `MySQL` · `SQLite` · `Jupyter` · `Git` · `Google Colab`
+### 💻 Languages I Speak
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrinda2720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <br>
 
 ---
-
-<div align="center">
 
 ### 🏆 Achievements
 
-</div>
+<table>
+<tr>
+<td width="50%">
+
+**🥇 Top 3 Nationwide**
+Govt. of India NCIIPC × Startup India AI Grand Challenge
+*Intelligent Multilingual Document Understanding*
+`Jan 2026`
+
+</td>
+<td width="50%">
+
+**🎖️ Student Excellence Award**
+Outstanding academic performance & research innovation
+`Jan 2026`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📝 Research Publication — ICCIDC 2025**
+Speech Emotion Recognition using CNN-BiLSTM
+*Taylor & Francis* · `Jul 2025`
+
+</td>
+<td width="50%">
+
+**📖 Book Chapter — Scopus Indexed**
+IoT & Security in Taylor & Francis Handbook
+`Jan 2025`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🌟 Dean's List Honoree** — GPA 9.0+ across three consecutive semesters `2024–2025`
+
+</td>
+</tr>
+</table>
 
 <br>
 
+---
+
+### 🔥 Trophies
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120"><img src="https://img.shields.io/badge/🥇-Top%203%20Nationwide-FFD700?style=for-the-badge" /></td>
-<td><b>Govt. of India NCIIPC × Startup India AI Grand Challenge</b><br><i>Intelligent Multilingual Document Understanding</i> · Jan 2026</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🎖️-Excellence-6366F1?style=for-the-badge" /></td>
-<td><b>Student Excellence Award</b><br><i>Outstanding academic performance & research innovation</i> · Jan 2026</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/📝-Published-10B981?style=for-the-badge" /></td>
-<td><b>Research Publication — ICCIDC 2025</b><br><i>Speech Emotion Recognition using CNN-BiLSTM</i> · Taylor & Francis · Jul 2025</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/📖-Published-8B5CF6?style=for-the-badge" /></td>
-<td><b>Book Chapter — Scopus Indexed</b><br><i>IoT & Security</i> · Taylor & Francis Handbook · Jan 2025</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🌟-Dean's%20List-F59E0B?style=for-the-badge" /></td>
-<td><b>Dean's List Honoree</b><br><i>GPA 9.0+ across three consecutive semesters</i> · 2024–2025</td>
-</tr>
-</table>
+![trophy](https://github-profile-trophy.vercel.app/?username=vrinda2720&theme=tokyonight&no-frame=true&column=7&margin-w=4&no-bg=false)
 
 </div>
 
@@ -92,10 +109,10 @@
 
 ---
 
-<br>
-
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=vrinda2720&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+*"Turning data into intelligence and ideas into impact."*
+
+<img src="https://komarev.com/ghpvc/?username=vrinda2720&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
