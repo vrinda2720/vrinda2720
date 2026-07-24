@@ -44,16 +44,15 @@
 <tr>
 <td width="50%">
 
-**🥇 Top 3 Nationwide**
-Govt. of India NCIIPC × Startup India AI Grand Challenge
-*Intelligent Multilingual Document Understanding*
+**🥇 Top 3 Nationwide — Govt. of India NCIIPC × Startup India AI Grand Challenge**
+Solved *Intelligent Multilingual Understanding of Documents* — built deep learning pipelines for layout detection, OCR & structured extraction across scripts
 `Jan 2026`
 
 </td>
 <td width="50%">
 
-**🎖️ Student Excellence Award**
-Outstanding academic performance & research innovation
+**🎖️ 2× Student Excellence Award**
+Recognized for outstanding academic performance, research-oriented innovation, and consistent contributions to technical & scholarly initiatives
 `Jan 2026`
 
 </td>
@@ -62,14 +61,14 @@ Outstanding academic performance & research innovation
 <td width="50%">
 
 **📝 Research Publication — ICCIDC 2025**
-Speech Emotion Recognition using CNN-BiLSTM
-*Taylor & Francis* · `Jul 2025`
+Co-authored a peer-reviewed paper on *Speech Emotion Recognition using CNN-BiLSTM* — published at ICCIDC 2025 by Taylor & Francis
+`Jul 2025`
 
 </td>
 <td width="50%">
 
 **📖 Book Chapter — Scopus Indexed**
-IoT & Security in Taylor & Francis Handbook
+Authored a chapter on *IoT & Security* in a Scopus-indexed Taylor & Francis handbook on Security & Quantum Computing
 `Jan 2025`
 
 </td>
@@ -77,7 +76,7 @@ IoT & Security in Taylor & Francis Handbook
 <tr>
 <td colspan="2" align="center">
 
-**🌟 Dean's List Honoree** — GPA 9.0+ across three consecutive semesters `2024–2025`
+**🌟 3× Dean's List Honoree** — Attained GPA 9.0+ in 4th, 5th & 8th semesters, reflecting academic excellence and high performance consistency
 
 </td>
 </tr>
