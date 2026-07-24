@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=R%26D+Engineer+%40+Qbit+Labs;Building+Multilingual+Document+AI+%26+OCR;Ex+Data+Science+Intern+%40+Pay1;Top+3+Nationwide+-+Govt.+of+India+AI+Challenge" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=R%26D+Engineer+%40+Qbit+Labs+Private+Limited;B.Tech+CS+%40+Manipal+University+Jaipur+%7C+8.77+CGPA" alt="Typing SVG" />
 
 </div>
 
@@ -31,24 +31,6 @@
 ### ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,huggingface,numpy,pandas,mysql,git,github,jupyter,colab,vscode" width="400"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🔥 What I've Done
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrinda2720&theme=tokyonight&hide_border=true&color=2563EB&line=7c3aed&point=ffffff&area=true" width="90%"/>
 
 </div>
 
@@ -105,30 +87,8 @@ IoT & Security in Taylor & Francis Handbook
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vrinda2720&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🌱 Currently
-
-`🔭 Exploring` Multimodal AI · LLM Fine-tuning · Production ML Systems
-`📝 Writing` Research papers on Document AI & Speech Processing
-`💡 Open to` SDE / ML Engineer / Data Science roles
-
-<br>
 
 *"Turning data into intelligence and ideas into impact."*
-
-<img src="https://komarev.com/ghpvc/?username=vrinda2720&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
